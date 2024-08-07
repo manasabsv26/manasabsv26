@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I am Manasa Bellamkonda! Great to see you here👋
+
+I am Manasa Bellamoknda, an incoming graduate student at University of Southern California in Computer Science. I have pursued Bachelors of Engineering (B.E.) in Computer Engineering from Pune Institute of Computer Technology. I love working on innovative ideas and pioneering technologies. I have previously worked at Platform9 Systems as 'Assosiate Member of Technical Staff' where I got the opportunity to work in Kubernetes, AWS, Golang and also worked on issues observed at scale.
 
 <!--
 **manasabsv26/manasabsv26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
