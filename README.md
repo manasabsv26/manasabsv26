@@ -1,15 +1,12 @@
 ## Hi! Great to see you here👋
 
-I am Manasa Bellamkonda, a graduate student in Computer Science at the University of Southern California, where I focus on systems, networking, and scalable infrastructure. I previously completed my Bachelor of Engineering in Computer Engineering from Pune Institute of Computer Technology.
+I am Manasa Bellamkonda, a graduate student in Computer Science at the University of Southern California (USC), focusing on low-level systems and distributed backend services. I previously completed my Bachelor of Engineering in Computer Engineering from the Pune Institute of Computer Technology (PICT).
 
-I enjoy building systems that operate at scale and solving problems close to the infrastructure layer. I recently interned at Amazon Web Services in the Networking org, where I built a Layer-2 networking validation framework that brought visibility into 85%+ Layer-3 sanity failures and eliminated 94% of hardcoded topology setups.
+I enjoy solving challenging problems and building systems that operate at scale. Recently, I interned at Amazon Web Services (AWS) in the Networking organization, where I built a Layer-2 networking validation framework that brought visibility into 85%+ of Layer-3 sanity failures and eliminated 94% of hardcoded topology setups, significantly improving network validation and debugging.
 
-Previously at Platform9 Systems, I worked on a managed Kubernetes platform powering enterprise clusters across diverse environments. My work involved scaling core services, improving reliability, expanding OS support, and resolving production issues across distributed microservices. I contributed features across Golang, Node.js, and Python services, improved platform scalability from hundreds to thousands of nodes, and worked closely with cloud-native tooling such as Kubernetes, Docker, CI/CD pipelines, and observability stacks.
+Previously, at Platform9 Systems, I worked on a managed Kubernetes platform powering enterprise clusters across diverse environments. My work focused on scaling core services, improving reliability, and resolving production issues across management plane, cluster-level, and node-level components. I contributed features across Golang and Node.js services, improved platform scalability from hundreds to thousands of nodes, and built automation for large-scale testing. I also worked extensively with Kubernetes, Docker, CI/CD pipelines, and observability tooling.
 
-At USC, I have shaped my coursework around low-level and scalable systems, including Operating Systems (CSCI-402) and Computer Networking (CSCI-551). I implemented kernel components such as threads, scheduling, virtual memory, and file systems in C, and built a BBR-style congestion control protocol to study throughput, latency, and fairness. I have read ~45 systems research papers to deepen my systems understanding, and I am overviewing Distributed Systems to strengthen my foundation in replication, consistency, and fault tolerance.
-
-I love working on innovative ideas where systems, performance, and scale intersect, and I am deeply passionate about building reliable systems at scale.
-
+At USC, I have shaped my coursework around low-level and scalable systems, including Operating Systems (CSCI-402) and Computer Networking (CSCI-551).
 Gitlab: https://gitlab.com/manasab201
 
 <!--
