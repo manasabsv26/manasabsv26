@@ -7,6 +7,7 @@ I enjoy solving challenging problems and building systems that operate at scale.
 Previously, at Platform9 Systems, I worked on a managed Kubernetes platform powering enterprise clusters across diverse environments. My work focused on scaling core services, improving reliability, and resolving production issues across management plane, cluster-level, and node-level components. I contributed features across Golang and Node.js services, improved platform scalability from hundreds to thousands of nodes, and built automation for large-scale testing. I also worked extensively with Kubernetes, Docker, CI/CD pipelines, and observability tooling.
 
 At USC, I have shaped my coursework around low-level and scalable systems, including Operating Systems (CSCI-402) and Computer Networking (CSCI-551).
+
 Gitlab: https://gitlab.com/manasab201
 
 <!--
